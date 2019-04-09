@@ -7,6 +7,7 @@ def array_with_two_elements
 end
 
 def first_element(array)
+<<<<<<< HEAD
   array[0]
 end
 
@@ -28,4 +29,7 @@ end
 
 def length_of_array(array)
   array.length
+=======
+  array.first
+>>>>>>> 677298614c744678aa0559307543337506300a91
 end
